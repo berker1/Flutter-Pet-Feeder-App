@@ -1,16 +1,6 @@
 # Pet Feeder App with Flutter
 
-A new Flutter project.
+https://user-images.githubusercontent.com/89537064/187034106-7339961a-40d4-4b9e-b4de-5bd2f8b2b9ed.mp4
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
