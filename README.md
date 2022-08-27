@@ -1,4 +1,4 @@
-# futterspender_v1
+# Pet Feeder App with Flutter
 
 A new Flutter project.
 
