@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201492315838",
+    "firebase_url": "https://futterspender-7927d-default-rtdb.firebaseio.com",
+    "project_id": "futterspender-7927d",
+    "storage_bucket": "futterspender-7927d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201492315838:android:61cd125c28901a858d68ef",
+        "android_client_info": {
+          "package_name": "com.example.futterspender_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201492315838-hvnap8ecacvt347hu454v43re0b454pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz6NhBFdhhovBEJVhpX0TFNf7EWp2aws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201492315838-hvnap8ecacvt347hu454v43re0b454pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
